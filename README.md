@@ -1,6 +1,6 @@
 # girlfriend
 
-here's the wp-plugin i created to add a girlfrient to my blog site. using live2d. 
+here's the wp-plugin i created to add a girlfriend to my blog site. using live2d. 
 
 ## Here's some demo images
 
